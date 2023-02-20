@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "acorn": "^8.8.1",
+    "astring": "^1.8.4",
+    "fs": "^0.0.1-security",
+    "recast": "^0.22.0"
+  }
+}
